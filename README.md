@@ -1,6 +1,6 @@
-# 🎵 Spotify Clone - Imersão Alura
+# 🎵 Spotify - Imersão Alura
 
-<h1 align="center">Spotify Clone - Imersão Alura</h1>
+<h1 align="center">Spotify - Imersão Alura</h1>
 
 ## 📌 Sobre o Projeto
 Este projeto é um **clone da landing page do Spotify**, desenvolvido durante a **Imersão Frontend da Alura**. O objetivo foi praticar **HTML, CSS e JavaScript**, criando uma interface responsiva e estilizada.
@@ -14,8 +14,8 @@ Este projeto é um **clone da landing page do Spotify**, desenvolvido durante a 
 Para rodar o projeto:
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/mgabrielsr/spotify-clone.git
-   cd spotify-clone
+   git clone https://github.com/mgabrielsr/spotify-alura.git
+   cd spotify-alura
    ```
 2. Abra o arquivo `index.html` no navegador.
 
@@ -31,9 +31,9 @@ Acesse o projeto online clicando [aqui](#) *(substituir pelo link do seu deploy)
 [Marcos Gabriel de Souza Rocha](https://github.com/mgabrielsr)
 
 ## 📷 Screenshots
-![Tela Inicial](screenshots/tela_inicial.png)
-![Página de Música](screenshots/pagina_musica.png)
-![Responsividade](screenshots/responsividade.png)
+![Tela Inicial]()
+![Página de Música]()
+![Responsividade]()
 
 ## 📲 Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-souza-b96389248/)
