@@ -1,7 +1,5 @@
 # 🎵 Spotify - Imersão Alura
 
-<h1 align="center">Spotify - Imersão Alura</h1>
-
 ## 📌 Sobre o Projeto
 Este projeto é um **clone da landing page do Spotify**, desenvolvido durante a **Imersão Frontend da Alura**. O objetivo foi praticar **HTML, CSS e JavaScript**, criando uma interface responsiva e estilizada.
 
