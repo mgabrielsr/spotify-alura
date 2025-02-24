@@ -30,11 +30,6 @@ Acesse o projeto online clicando [aqui](#) *(substituir pelo link do seu deploy)
 ## 👨‍💻 Desenvolvido por
 [Marcos Gabriel de Souza Rocha](https://github.com/mgabrielsr)
 
-## 📷 Screenshots
-![Tela Inicial]()
-![Página de Música]()
-![Responsividade]()
-
 ## 📲 Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-souza-b96389248/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mgabrielsr)
