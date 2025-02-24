@@ -25,7 +25,7 @@ Para rodar o projeto:
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## 🌎 Deploy
-Acesse o projeto online clicando [aqui](#) *(substituir pelo link do seu deploy)*.
+Acesse o projeto online clicando [aqui](https://plum-curlew-186024.hostingersite.com/) 
 
 ## 👨‍💻 Desenvolvido por
 [Marcos Gabriel de Souza Rocha](https://github.com/mgabrielsr)
