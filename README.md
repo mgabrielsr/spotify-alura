@@ -1,41 +1,41 @@
-# Spotify Clone
+# 🎵 Spotify Clone - Imersão Alura
 
-#### Landing Page do Spotify
+<h1 align="center">Spotify Clone - Imersão Alura</h1>
 
-<div style="display: inline_block">
+## 📌 Sobre o Projeto
+Este projeto é um **clone da landing page do Spotify**, desenvolvido durante a **Imersão Frontend da Alura**. O objetivo foi praticar **HTML, CSS e JavaScript**, criando uma interface responsiva e estilizada.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" width="300px" align="right"/>
+## 📋 Funcionalidades
+- 🎨 Interface inspirada no design do Spotify
+- 📱 Layout responsivo para diferentes dispositivos
+- 🎵 Animações e interações visuais com CSS e JavaScript
 
-## Índice
-
-- [Título e Imagem de capa](#spotify-clone)
-- [Descrição do projeto](#-descrição-do-projeto)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Deploy](#-deploy)
-- [Desenvolvido](#-desenvolvido-por)
-- [Licença](#%EF%B8%8F-licença)
-
-</div>
-
-## 📄 Descrição do Projeto
-
-Este projeto se trata de um clone do Spotify, o qual foi desenvolvido durante a Imersão Frontend da [Alura](https://www.alura.com.br/).
+## 🚀 Como Usar
+Para rodar o projeto:
+1. Clone o repositório:
+   ```sh
+   git clone https://github.com/mgabrielsr/spotify-clone.git
+   cd spotify-clone
+   ```
+2. Abra o arquivo `index.html` no navegador.
 
 ## 🛠 Tecnologias Utilizadas
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 
-<div align="center">
-  <img align="center" alt="Misla-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Misla-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Misla-JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</div>
+## 🌎 Deploy
+Acesse o projeto online clicando [aqui](#) *(substituir pelo link do seu deploy)*.
 
-## 🚀 Deploy
- 
-Usei a própria ferramenta de deploy do GitHub, <a href= "https://wwwmisla.github.io/spotify-clone/" target="_blank"> Clique Aqui </a> para ver o projeto.
+## 👨‍💻 Desenvolvido por
+[Marcos Gabriel de Souza Rocha](https://github.com/mgabrielsr)
 
-## 🚧 Desenvolvido Por 
-`Misla Wislaine` 
+## 📷 Screenshots
+![Tela Inicial](screenshots/tela_inicial.png)
+![Página de Música](screenshots/pagina_musica.png)
+![Responsividade](screenshots/responsividade.png)
 
-## 🗂️ Licença
-
-Este projeto está sob a licença [MIT](LICENSE).
+## 📲 Conecte-se Comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-souza-b96389248/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mgabrielsr)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bieel.zp/)
